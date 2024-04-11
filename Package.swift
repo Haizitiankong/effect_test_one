@@ -12,7 +12,7 @@ let package = Package(
   targets: [
     .binaryTarget(
         name: "EffectOneKit",
-        url: "https://sf3-ttcdn-tos.pstatp.com/obj/volcengine/EffectOneKit/0.2.0-EO/EffectOneKit.xcframework.zip",
+        url: "https://sf3-ttcdn-tos.pstatp.com/obj/volcengine/EffectOneKit/1.0.0.1-EO/EffectOneKit.xcframework.zip",
         checksum: "e215bc1b4e8e7c9354e519f4a34276189e2a147f8cb0d93256b1702db60ca249"),
   ]
 )
