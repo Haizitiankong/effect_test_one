@@ -12,7 +12,7 @@ let package = Package(
   targets: [
     .binaryTarget(
         name: "EffectOneKit",
-        url: "https://sf3-ttcdn-tos.pstatp.com/obj/volcengine/EffectOneKit/1.1.0.8-karrot-eolite/EffectOneKit.xcframework.zip",
-        checksum: "16bc1288e3a87b10c561d2e7a0d63af515c8a8eacad05fc07cb890c983c0d1b9"),
+        url: "https://sf3-ttcdn-tos.pstatp.com/obj/volcengine/EffectOneKit/1.1.0.12-karrot-eolite/EffectOneKit.xcframework.zip",
+        checksum: "66da78dbcd96855e92aeac0c4fdb1d2f72010ad685d55d9aafde13977b4b3269"),
   ]
 )
